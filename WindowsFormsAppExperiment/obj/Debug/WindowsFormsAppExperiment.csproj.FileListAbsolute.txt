@@ -1,0 +1,10 @@
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\bin\Debug\WindowsFormsAppExperiment.exe.config
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\bin\Debug\WindowsFormsAppExperiment.exe
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\bin\Debug\WindowsFormsAppExperiment.pdb
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.csprojAssemblyReference.cache
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.Properties.Resources.resources
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.csproj.GenerateResource.cache
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.csproj.CoreCompileInputs.cache
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.exe
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.pdb
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.Form1.resources
