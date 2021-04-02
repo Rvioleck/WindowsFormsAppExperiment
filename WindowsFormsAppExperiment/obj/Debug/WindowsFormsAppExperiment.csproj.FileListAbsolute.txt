@@ -9,3 +9,4 @@ D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\D
 D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.pdb
 D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.Form1.resources
 D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.Form2.resources
+D:\Rider\RiderProjects\WindowsFormsAppExperiment\WindowsFormsAppExperiment\obj\Debug\WindowsFormsAppExperiment.Form3.resources
