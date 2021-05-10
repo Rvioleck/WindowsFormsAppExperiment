@@ -38,12 +38,7 @@ namespace WindowsFormsAppExperiment2
                     if (radioButton.Checked)
                     {
                         String Text = radioButton.Text;
-                        if (Text == "绿色")
-                        {
-                            e.Graphics.DrawString(listBox1.Items[e.Index].ToString(), listBox1.Font, Brushes.Green,
-                                e.Bounds);
-                        }
-                        else if (Text == "红色")
+                        if (Text == "红色")
                         {
                             e.Graphics.DrawString(listBox1.Items[e.Index].ToString(), listBox1.Font, Brushes.Red,
                                 e.Bounds);
@@ -61,6 +56,13 @@ namespace WindowsFormsAppExperiment2
                         else if (Text == "黑色")
                         {
                             e.Graphics.DrawString(listBox1.Items[e.Index].ToString(), listBox1.Font, Brushes.Black,
+                                e.Bounds);
+                        } else if (Text == "自定义")
+                        {
+
+                            colorDialog1.ShowDialog();
+                            Brush brush = new SolidBrush(colorDialog1.Color);
+                            e.Graphics.DrawString(listBox1.Items[e.Index].ToString(), listBox1.Font, brush,
                                 e.Bounds);
                         }
                     }
